@@ -1,0 +1,1 @@
+# A-Series-of-JavaScript-console-log-codes
